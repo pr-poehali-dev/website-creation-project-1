@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				warthunder: {
+					DEFAULT: '#2b2a28',
+					foreground: '#f0e8d9',
+					accent: '#c59038',
+					dark: '#1a1916',
+					light: '#d5cabb'
 				}
 			},
 			borderRadius: {
